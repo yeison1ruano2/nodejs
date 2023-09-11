@@ -15,7 +15,7 @@ function estructura(){
         <p>Hola</p>
         <p>Arreglado</p>`
     );
-}; 
+};
 
 console.log('Antes de leer el archivo');
 

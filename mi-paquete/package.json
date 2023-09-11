@@ -1,12 +1,15 @@
 {
   "name": "mi-paquete",
   "version": "1.0.0",
-  "description": "",
+  "description": "Mi primer paquete de Node.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Yeison Stiven David Ruano Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
 }
