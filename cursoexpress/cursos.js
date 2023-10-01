@@ -17,6 +17,12 @@ let infoCursos = {
       lenguaje : "java",
       vistas:  12000 ,
       nivel:"avanzado"
+    },{
+      id:4,
+      titulo:'Aprende java',
+      lenguaje: 'java',
+      vistas: 235243,
+      nivel: 'basico'
     }],
     'matematicas':[{
       id:1,
